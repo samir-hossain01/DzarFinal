@@ -1,0 +1,632 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+
+@media (max-width: 575.98px) {
+    /* ============banner start here ============= */
+    .banner {
+        padding: 40px 0px;
+    }
+    .common-title {
+        font-size: 28px;
+    }
+    .banner-content h4 {
+        font-size: 16px;
+        padding: 15px 0px;
+    }
+    .banner-content p {
+        font-size: 12px;
+    }
+    /* ===========banner end here ============= */
+    /* ---------------secure start here ---------- */
+    .secure-single-item {
+        padding: 20px 0px;
+    }
+    .secure-content {
+        padding: 0px 0px;
+    }
+    .secure-common-single-item p {
+        font-size: 14px;
+    }
+    /* ----------------secure end here ----------- */
+    /* ===============feature start here ============= */
+    .feature {
+        margin-top: 0px;
+        padding: 0px 0px;
+        background-position: center;
+    }
+    .feature-single-item {
+        position: relative;
+        top: 280px;
+    }
+    .feature-card {
+        top: 30px;
+        margin-bottom: 24px;
+    }
+    .feature-c-content {
+        padding: 20px 16px;
+    }
+    .feature-main-content {
+        margin-top: 0px;
+    }
+    .feature-single-item h1 {
+        font-size: 18px;
+    }
+    /* ==============feature end here =============== */
+    /* ===============logo start here================== */
+    .custom-column {
+        position: relative;
+        left: 90px;
+        top: -30px;
+    }
+    .middle-icon {
+        font-size: 25px;
+        left: -41px;
+        top: 52px;
+        padding: 4px 8px;
+    }
+    .middle-icon-1 {
+        right: -42px;
+        font-size: 25px;
+        top: 48px;
+        padding: 4px 8px;
+    }
+    .logo-s-img img {
+        padding: 40px 40px;
+    }
+    .right-item {
+        padding: 25px 27px;
+    }
+    .bitcoin {
+        width: 32px;
+    }
+    /* ================logo end here ===================== */
+    /* ==================explore start here ============== */
+    .explore-content p {
+        font-size: 16px;
+        line-height: 31px;
+    }
+    .explore-btn-single-item {
+        margin-top: 40px;
+    }
+    .explore-top-btn a {
+        padding: 9px 36px;
+        font-size: 12px;
+    }
+    .explore-btn {
+        display: block;
+        padding-bottom: 35px;
+        padding: 0px 11px;
+    }
+    .explore-btn a {
+        font-size: 13px;
+        padding: 6px 29px;
+        margin-bottom: 16px;
+    }
+    /* =====================explore end here ============== */
+    /* ==============road map start here ================ */
+    .road-map-single-item-1 {
+        left: 0px;
+    }
+    .road-map-content {
+        margin: 0px 0px;
+    }
+    .road-map-single-item h3 {
+        font-size: 12px;
+    }
+    .dot span {
+        display: none;
+    }
+    .road-map-single-item {
+        left: 0px;
+        margin-bottom: 34px;
+    }
+    .map-common-single-item-1 {
+        left: 0px;
+    }
+    .map-common-single-item-4 {
+        left: 0px;
+    }
+    /* ===============road map end here ================== */
+    /* ==================footer start here=============== */
+    .footer-single-item {
+        display: block;
+    }
+    .footer-logo {
+        text-align: center;
+    }
+    .footer-icon {
+        margin-top: 19px;
+        text-align: center;
+    }
+    /* ===================footer end here =============== */
+    /* =================spin start ehre ============== */
+    /* ================spin end here ================= */
+}
+
+
+/* Small devices (landscape phones, 576px and up)*/
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* =============banner start here ============ */
+    .banner {
+        padding: 50px 0px;
+    }
+    .common-title {
+        font-size: 30px;
+    }
+    .banner-content h4 {
+        font-size: 17px;
+        padding: 17px 0px;
+    }
+    .banner-content p {
+        font-size: 12px;
+    }
+    /* ===========banner end here ================= */
+    /* ================secure strt here ========== */
+    .secure-single-item {
+        padding: 21px 0px;
+    }
+    .secure-common-single-item p {
+        font-size: 14px;
+    }
+    .secure-content {
+        padding: 0px 0px;
+    }
+    /* ==============secure end here ============== */
+    /* ================feature start here ============== */
+    .secure-single-item {
+        top: 189px;
+    }
+    .feature {
+        margin-top: 11px;
+        padding: 0px 0px;
+        background-position: center;
+    }
+    .feature-main-content {
+        margin-top: 0px;
+        position: relative;
+        top: 110px;
+    }
+    .feature-single-item {
+        position: relative;
+        top: 120px;
+    }
+    .feature-c-content {
+        padding: 22px 14px;
+    }
+    .feature-card-header {
+        padding: 26px 0px;
+    }
+    .feature-card {
+        margin-top: 19px;
+    }
+    .feature-single-item h1 {
+        font-size: 23px;
+    }
+    .custom-p {
+        padding-bottom: 32px;
+    }
+    .custom-p {
+        padding-bottom: 84px;
+    }
+    /* ================feature end here =============== */
+    /* ==============spin start here==================== */
+    .spin {
+        margin-top: 280px;
+    }
+    .spin-single-item {
+        left: 0px;
+    }
+    .circle-border-item {
+        position: relative;
+        left: -238px;
+        /* margin-top: 130px; */
+        /* padding: 50px; */
+        /* margin: 140px 0px; */
+        margin-top: 140px;
+        margin-bottom: 50px;
+    }
+    /* ==================spin end here=================== */
+    /* ===========logo start here ======================= */
+    .logo-s-img img {
+        padding: 40px 40px;
+    }
+    .middle-icon {
+        font-size: 17px;
+        left: -31px;
+        top: 52px;
+        padding: 3px 6px;
+    }
+    .middle-icon-1 {
+        right: -26px;
+        font-size: 17px;
+        color: rgb(27, 35, 117);
+        top: 50px;
+        padding: 2px 5px;
+    }
+    .right-item {
+        padding: 28px 27px;
+    }
+    .bitcoin {
+        width: 20px;
+    }
+    /* =========logo end here========================= */
+    /* ====================explore start here ============= */
+    .explore-btn-single-item {
+        margin-top: 40px;
+    }
+    .explore-content p {
+        font-size: 14px;
+        line-height: 31px;
+    }
+    .explore-top-btn a {
+        padding: 9px 50px;
+        font-size: 14px;
+    }
+    .explore-btn a {
+        font-size: 16px;
+        padding: 6px 40px;
+    }
+    /* ======================explore end here ============= */
+    /* ====================media start here ================ */
+    .media {
+        padding: 50px 80px;
+    }
+    .media-content p {
+        font-size: 13px;
+    }
+    .blockchain-custom-img {
+        height: 86px;
+    }
+    .arrow span,
+    .arrow-1 span {
+        top: 67px;
+    }
+    /* ====================media end here =================== */
+    /* =================team start here ================== */
+    .team-item h6 {
+        font-size: 15px;
+    }
+    /* ==================team end here ============== */
+    /* ================road map start here ============== */
+    .road-map-single-item-1 {
+        left: 0px;
+    }
+    .road-map-content {
+        padding: 5px 0px;
+        margin: 0px 0px;
+    }
+    .road-map-single-item h3 {
+        font-size: 15px;
+    }
+    .border-single-item {
+        left: 75px;
+        width: 76%;
+    }
+    .map-common-single-item-1 {
+        left: 0px;
+    }
+    .map-common-single-item-4 {
+        left: 0px;
+    }
+    .map-common-single-item-5 {
+        left: 1px;
+    }
+    .dot-1 span {
+        left: 0px;
+        display: none;
+    }
+    .dot-3 span {
+        left: 72px;
+    }
+    .dot-4 span {
+        left: 70px !important;
+    }
+    .dot-5 span {
+        left: 95px;
+    }
+    .custom-dot-span span {
+        left: 0;
+        display: none;
+    }
+    /* =================road map end here ============== */
+    /* ================footer start here ================ */
+    .footer-logo img {
+        width: 168px;
+    }
+    /* ================footer end here================= */
+}
+
+
+/* Medium devices (tablets, 768px and up)*/
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* menu start here  */
+    .menu li a {
+        margin: 0px 4px;
+        font-size: 14px;
+    }
+    /* menu end here  */
+    /* ============banner start here =========== */
+    .banner {
+        padding: 50px 0px;
+    }
+    .common-title {
+        font-size: 30px;
+    }
+    .banner-content h4 {
+        font-size: 17px;
+        padding: 20px 0px;
+    }
+    .banner-content p {
+        font-size: 13px;
+    }
+    /* =========bannere end here =============== */
+    /* ==============secure start here ========== */
+    .secure-single-item {
+        top: 190px;
+    }
+    .secure-single-item {
+        padding: 27px 0px;
+    }
+    .secure-common-single-item p {
+        font-size: 14px;
+    }
+    .secure-content {
+        padding: 0px 0px;
+    }
+    /* =============secure end here ========== */
+    /* ============feature start here ============ */
+    .feature {
+        padding: 35px 0px;
+        background-position: top;
+    }
+    .feature-main-content {
+        margin-top: 0px;
+    }
+    .feature-c-content {
+        padding: 12px 21px;
+    }
+    .feature-single-item {
+        position: relative;
+        top: 220px;
+    }
+    .feature-card {
+        top: 18px;
+    }
+    .feature-single-item h1 {
+        font-size: 28px;
+    }
+    .feature-card-header h1 {
+        font-size: 22px;
+    }
+    .feature-c-content p {
+        font-size: 16px;
+        line-height: 23px;
+    }
+    .custom-p {
+        padding-bottom: 78px;
+    }
+    /* ============feature end here============= */
+    /* ============spin start here ============= */
+    .spin {
+        margin-top: 262px;
+    }
+    .spin-single-item {
+        left: -28px;
+    }
+    .dollar-img {
+        left: -17px;
+    }
+    .dollar-arrow {
+        left: -15px;
+    }
+    .circle-border-item {
+        left: -389px !important;
+    }
+    .euro-arrow {
+        left: 220px;
+    }
+    .euro-img {
+        left: 218px;
+    }
+    /* ===========spin end here================== */
+    /* ===========logo start here ============== */
+    .logo-s-img img {
+        padding: 40px 40px;
+    }
+    .middle-item-s {
+        margin-top: 42px;
+    }
+    .middle-icon {
+        font-size: 19px;
+        left: -34px;
+        top: 50px;
+        padding: 4px 8px;
+    }
+    .middle-icon-1 {
+        right: -38px;
+        font-size: 19px;
+        top: 50px;
+        padding: 4px 8px;
+    }
+    .bitcoin {
+        width: 23px;
+    }
+    .right-item {
+        padding: 31px 47px;
+    }
+    /* ============logo end here =============== */
+    /* ===============explore start here========= */
+    .explore-content p {
+        font-size: 17px;
+        line-height: 33px;
+    }
+    .explore-btn-single-item {
+        margin-top: 70px;
+    }
+    .explore-btn a {
+        padding: 6px 35px;
+    }
+    /* ================explore end here =========== */
+    /* =============media start here=============== */
+    .media {
+        padding: 50px 120px;
+    }
+    .media-content p {
+        font-size: 13px;
+    }
+    .blockchain-custom-img {
+        height: 111px;
+    }
+    .arrow-1 span,
+    .arrow span {
+        top: 90px;
+    }
+    /* =============media end here =============== */
+    /* ================road map start here ============ */
+    /* .road-map-single-item {
+        left: 43px;
+    } */
+    .map-common-single-item-1 {
+        position: relative;
+        left: 33px;
+    }
+    .map-common-single-item-4 {
+        left: 58px;
+    }
+    .map-common-single-item-5 {
+        left: 32px;
+    }
+    .road-map-content {
+        margin: 0px 0px;
+        padding: 5px 7px;
+    }
+    .road-map-single-item h3 {
+        font-size: 17px;
+    }
+    .dot span {
+        left: 71px;
+    }
+    .dot-3 span {
+        left: 65px !important;
+    }
+    /* =================road map end here ============== */
+}
+
+
+/* Large devices (desktops, 992px and up)*/
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* ==========menu start here ============ */
+    .menu li a {
+        margin: 0px 5px;
+    }
+    /* ===========menu end here  */
+    /* ============banner start here ============== */
+    .banner {
+        padding: 50px 0px;
+    }
+    .common-title {
+        font-size: 33px;
+    }
+    .banner-content h4 {
+        font-size: 18px;
+        padding: 16px 0px;
+    }
+    .banner-content p {
+        font-size: 13px;
+    }
+    /* =============banner end here ============== */
+    /* ================feature start here ============== */
+    .secure-single-item {
+        position: relative;
+        top: 226px;
+        padding: 25px 0px;
+    }
+    .custom-p {
+        padding-bottom: 58px;
+    }
+    .secure-content {
+        padding: 0px 0px;
+    }
+    .feature {
+        padding: 10px 0px;
+        margin-top: 30px;
+    }
+    .feature-main-content {
+        margin-top: 173px;
+        position: relative;
+        top: 116px;
+    }
+    .feature-card {
+        border-radius: 29px;
+        position: relative;
+        top: 140px;
+        margin-top: 0px;
+    }
+    .feature-single-item h1 {
+        font-size: 28px;
+    }
+    /* ================feature end here ================= */
+    /* ============spin start here ====================== */
+    .spin {
+        margin-top: 180px;
+    }
+    .spin-single-item {
+        left: 48px;
+    }
+    .circle-border-item {
+        left: -370px !important;
+    }
+    .euro-arrow {
+        left: 116px;
+    }
+    .euro-img {
+        left: 129px;
+    }
+    /* ============spin end here======================= */
+    /* ============logo start here ================= */
+    .middle-icon {
+        left: -41px;
+        top: 52px;
+    }
+    .right-item {
+        padding: 33px 57px;
+        border-radius: 160px 0px 0px 160px;
+    }
+    /* ===================logo end here ========== */
+    /* ==================media start here =============== */
+    .media {
+        padding: 50px 99px;
+    }
+    .media-content p {
+        font-size: 16px;
+    }
+    .blockchain-custom-img {
+        height: 182px;
+    }
+    /* ==================media end here =============== */
+    /* ================road map start here ============= */
+    .road-map-content {
+        margin: 0px 14px;
+    }
+    .dot-1 span {
+        left: 153px;
+        top: 36px;
+    }
+    .dot span {
+        left: 99px;
+    }
+    .dot-3 span {
+        left: 100px;
+    }
+    .dot-4 span {
+        left: 103px !important;
+    }
+    /* ===================road map end here ============ */
+}
+
+
+/* Extra large devices (large desktops, 1200px and up)*/
+
+@media (min-width: 1200px) {}
